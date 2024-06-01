@@ -33,8 +33,12 @@
   </ol>
 </details>
 
+<!-- Title -->
+  <div align="center">
+    ## Beyond Cairo: Saidi Egyptian Arabic Corpus Construction and Analysis
+  </div>
 <!-- ABOUT THE PROJECT -->
-##Beyond Cairo: Saidi Egyptian Arabic Corpus Construction and Analysis
+
 
 ## About The Project
 
