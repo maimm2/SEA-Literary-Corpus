@@ -8,7 +8,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-This is the corpus presented in the ArabicNLP 2024 conference. 
+This is the corpus presented in the ArabicNLP 2024 conference, the first Saidi Egyptian Arabic corpus. This corpus was extracted from a genre of Saidi Novels, therefore, we assume all characters are using Saidi Egyptian Arabic. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -20,21 +20,22 @@ This corpus includes Modern Standard Arabic, Cairene Egyptian Arabic, and Saidi 
 <!-- ROADMAP -->
 ## File Description
 
-- [ ] 1.a.novel_mixed_merged_output.tsv 
-This file 
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- ## [ ] 1.a.novel_mixed_merged_output.tsv:
+This file contains all novels, separated by new line and randomized (around 3million words). It contains Modern Standard Arabic and Saidi Arabic.
+- ## [ ] 1.b.novel_SEA_merged_output.tsv:
+This file contains Saidi text extracted after columns, separated by new line and randomized (around 1.5million words).
+- ## [ ] 2.a.SEA_authors.tsv:
+This file contains novels extracted from authors confirmed to be residing in Saidi cities. These texts are extracted after columns, to include only the Saidi dialect. Extracted text is separated by new line and randomized.
+- ## [ ] 2.a.CEA_authors.tsv:
+This file contains novels extracted from authors confirmed to be residing in non-SEA cities. These texts are extracted after columns, to include only the Saidi dialect. Extracted text is separated by new line and randomized.
+  
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+Distributed under the MIT License. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
