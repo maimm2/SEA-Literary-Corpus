@@ -8,19 +8,20 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-This is the corpus presented in the ArabicNLP 2024 conference. This corpus includes Modern Standard Arabic, Cairene Egyptian Arabic, and Saidi Egyptian Arabic.
+This is the corpus presented in the ArabicNLP 2024 conference. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
-
+## Overview
+This corpus includes Modern Standard Arabic, Cairene Egyptian Arabic, and Saidi Egyptian Arabic. It contains approximately 3 million words. Each file is a .tsv file, randomized by new line.
 
 
 <!-- ROADMAP -->
-## Roadmap
-The complete corpus is presented in files titled (1). The first file 1.a is the corpus of all novels, with a mix of 
-- [ ] Feature 1
+## File Description
+
+- [ ] 1.a.novel_mixed_merged_output.tsv 
+This file 
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
